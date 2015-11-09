@@ -1,6 +1,6 @@
 {
   "name": "weatherx",
-  "version": "0.9.9",
+  "version": "0.1.0",
   "description": "use command line view weather",
   "main": "index.js",
   "bin": {
