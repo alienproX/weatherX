@@ -119,8 +119,8 @@ function help(){
 function latlon(arr){
 	var lat, lon;
     arr.forEach(function (val) {
-    	if(/^lat(?=\d)/.test(val)) lat = val.replace('lat','');
-    	if(/^lon(?=\d)/.test(val)) lon = val.replace('lon','');
+    	if(/^lat-?(?=\d)/.test(val)) lat = val.replace('lat','');
+    	if(/^lon-?(?=\d)/.test(val)) lon = val.replace('lon','');
     })
     return 'lat=' + lat + '&lon=' + lon;
 }
