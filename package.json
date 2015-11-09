@@ -1,0 +1,11 @@
+{
+  "name": "weather",
+  "version": "0.9.9",
+  "description": "use command line view weather",
+  "main": "index.js",
+  "bin": {
+    "weather": "index.js"
+  },
+  "author": "cattla",
+  "license": "ISC"
+}
