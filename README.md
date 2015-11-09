@@ -1,5 +1,5 @@
 # weatherX
-A terminal weather app
+a terminal weather app
 =============
 
 **Install** 
@@ -9,8 +9,6 @@ npm install weatherx -g
 ```
 =============
   
-
-   
 **How To Use** 
 
 ```
