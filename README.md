@@ -1,5 +1,5 @@
 # weatherX
-a terminal weather app
+A terminal weather app
 
 ============
 
