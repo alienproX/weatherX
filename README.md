@@ -1,6 +1,5 @@
 # weatherX
-a terminal weather app
-
+A terminal weather app
 =============
 
 **Install** 
@@ -27,7 +26,7 @@ Seach weather forecast for 5 days with data every 3 hours by `cityName`.
 ```
 weather lat118 lon24.4 -geo
 ```
-lat, lon coordinates of the location of your interest!
+`lat`, `lon` coordinates of the location of your interest!
  
 ```
 weather lat118 lon24.4 -geo -5
