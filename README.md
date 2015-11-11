@@ -1,6 +1,8 @@
 # weatherX
 A terminal weather app
 
+Video show: https://www.youtube.com/watch?v=ymHp0C6j1_4
+
 ============
 
 **Install** 
